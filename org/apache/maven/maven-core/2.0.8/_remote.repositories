@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 24 14:25:59 CST 2018
+maven-core-2.0.8.pom>nexus=
+maven-core-2.0.8.jar>i3s-ads=
+maven-core-2.0.8.jar>nexus=
+maven-core-2.0.8.pom>i3s-ads=

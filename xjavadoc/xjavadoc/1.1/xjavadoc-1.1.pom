@@ -1,0 +1,55 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>xjavadoc</groupId>
+  <artifactId>xjavadoc</artifactId>
+  <name>XJavaDoc</name>
+  <version>1.1</version>
+  <description>The XJavaDoc engine is a complete rewrite of Sun's JavaDoc engine that 
+        is faster and more suited for XDoclet (although it is completely 
+        standalone). It scans java source code and makes information about a 
+        class available via special java beans that are part of the XJavaDoc 
+        core. These beans provide the same information about a class as Sun's 
+        JavaDoc API, and some nice extra features.</description>
+  <url>http://xdoclet.sourceforge.net/xjavadoc/</url>
+  <issueManagement>
+    <url>http://opensource.atlassian.com/projects/xdoclet/</url>
+  </issueManagement>
+  <inceptionYear>2002</inceptionYear>
+  <scm>
+    <connection>scm:cvs:pserver:anonymous@cvs.sourceforge.net:/cvsroot/xdoclet:xjavadoc</connection>
+    <url>http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/xdoclet/xjavadoc/</url>
+  </scm>
+  <organization>
+    <name>XDoclet Team</name>
+    <url>http://xdoclet.sourceforge.net/xjavadoc/</url>
+  </organization>
+  <dependencies>
+    <dependency>
+      <groupId>ant</groupId>
+      <artifactId>ant</artifactId>
+      <version>1.5.2</version>
+    </dependency>
+    <dependency>
+      <groupId>commons-collections</groupId>
+      <artifactId>commons-collections</artifactId>
+      <version>2.1</version>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+    </dependency>
+  </dependencies>
+  <distributionManagement>
+    <repository>
+      <id>default</id>
+      <name>Default Repository</name>
+      <url>file:///home/groups/x/xd/xdoclet/htdocs/repository</url>
+    </repository>
+    <site>
+      <id>default</id>
+      <name>Default Site</name>
+      <url>scp://shell.sourceforge.net//home/groups/x/xd/xdoclet/htdocs/xjavadoc</url>
+    </site>
+  </distributionManagement>
+</project>

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 24 14:24:01 CST 2018
+commons-logging-1.1.jar>nexus=
+commons-logging-1.1.jar>i3s-ads=
+commons-logging-1.1.pom>i3s-ads=
+commons-logging-1.1.pom>nexus=

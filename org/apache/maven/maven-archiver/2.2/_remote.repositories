@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 24 14:26:00 CST 2018
+maven-archiver-2.2.jar>i3s-ads=
+maven-archiver-2.2.jar>nexus=
+maven-archiver-2.2.pom>nexus=
+maven-archiver-2.2.pom>i3s-ads=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 25 11:22:22 CST 2018
+httpclient-4.3.3.jar>nexus=
+httpclient-4.3.3.pom>nexus=
+httpclient-4.3.3.jar>central=
+httpclient-4.3.3.pom>central=

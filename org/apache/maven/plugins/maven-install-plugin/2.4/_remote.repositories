@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 24 14:26:42 CST 2018
+maven-install-plugin-2.4.jar>i3s-ads=
+maven-install-plugin-2.4.pom>nexus=
+maven-install-plugin-2.4.pom>i3s-ads=
+maven-install-plugin-2.4.jar>nexus=

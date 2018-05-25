@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 25 11:22:22 CST 2018
+jackson-coreutils-1.6.pom>nexus=
+jackson-coreutils-1.6.jar>nexus=
+jackson-coreutils-1.6.jar>central=
+jackson-coreutils-1.6.pom>central=

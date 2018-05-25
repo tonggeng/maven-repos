@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 24 14:24:01 CST 2018
+log4j-1.2.12.jar>i3s-ads=
+log4j-1.2.12.pom>i3s-ads=
+log4j-1.2.12.pom>nexus=
+log4j-1.2.12.jar>nexus=

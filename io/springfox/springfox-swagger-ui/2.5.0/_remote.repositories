@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 25 11:22:22 CST 2018
+springfox-swagger-ui-2.5.0.jar>central=
+springfox-swagger-ui-2.5.0.pom>central=
+springfox-swagger-ui-2.5.0.pom>nexus=
+springfox-swagger-ui-2.5.0.jar>nexus=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 24 14:25:05 CST 2018
+maven-jetty-plugin-6.1.16.jar>nexus=
+maven-jetty-plugin-6.1.16.pom>nexus=
+maven-jetty-plugin-6.1.16.jar>i3s-ads=
+maven-jetty-plugin-6.1.16.pom>i3s-ads=

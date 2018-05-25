@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>flex-messaging</groupId>
+  <artifactId>flex-messaging</artifactId>
+  <version>1.0</version>
+  <description>POM was created by Sonatype Nexus</description>
+	<dependencies>
+		<dependency>
+			<groupId>flex-messaging-core</groupId>
+			<artifactId>flex-messaging-core</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>flex-messaging-common</groupId>
+			<artifactId>flex-messaging-common</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>flex-messaging-opt</groupId>
+			<artifactId>flex-messaging-opt</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>flex-messaging-proxy</groupId>
+			<artifactId>flex-messaging-proxy</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>flex-messaging-remoting</groupId>
+			<artifactId>flex-messaging-remoting</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>cfgatewayadapter</groupId>
+			<artifactId>cfgatewayadapter</artifactId>
+			<version>1.0</version>
+		</dependency>
+	</dependencies>
+</project>

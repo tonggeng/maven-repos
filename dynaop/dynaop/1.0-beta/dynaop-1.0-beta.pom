@@ -1,0 +1,12 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>dynaop</groupId>
+  <artifactId>dynaop</artifactId>
+  <name>dynaop</name>
+  <version>1.0-beta</version>
+  <inceptionYear>2004</inceptionYear>
+  <organization>
+    <name>Bob Lee</name>
+    <url>http://dynaop.dev.java.net</url>
+  </organization>
+</project>
